@@ -54,10 +54,83 @@
 
 	.isotope .item {max-width: 350px;margin: 0 auto 30px;}
 
-	.single-profile {max-width: 350px; margin: 30px auto;border: 0;}
+	.single-profile {max-width: 350px; margin: 0 auto 30px;border: 0;}
 	.profile-border{border: 0;}
 
 	.single-horizontal-timeline {max-width: 350px;margin: 30px auto;}
+
+    /* Welcome Hero */
+    .header-text h2 {
+        font-size: 24px;
+    }
+    .header-text p {
+        font-size: 16px;
+    }
+
+    /* About */
+    .about-content .col-sm-6 {
+        width: 100%;
+        text-align: center;
+    }
+    .single-about-img {
+        margin-top: 30px;
+    }
+
+    /* Education */
+    .education-horizontal-timeline .col-sm-4 {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .timeline-horizontal-border {
+        display: none;
+    }
+
+    /* Skills */
+    .skills .col-md-6 {
+        width: 100%;
+    }
+    .skill-box {
+        margin-left: 0;
+    }
+
+    /* Experience */
+    .experience-time {
+        text-align: left;
+    }
+    .main-timeline .timeline-content.text-right {
+        text-align: left;
+    }
+    .main-timeline .col-md-5 {
+        width: 100%;
+    }
+    .main-timeline .col-md-offset-1 {
+        margin-left: 0;
+    }
+    .experience-time-main {
+        margin-top: 20px;
+    }
+
+    /* Profiles */
+    .profiles .col-sm-3 {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+    /* Portfolio */
+    .portfolio .col-sm-4 {
+        width: 100%;
+    }
+
+    /* Contact */
+    .contact .col-md-5, .contact .col-sm-6 {
+        width: 100%;
+    }
+    .contact .col-md-offset-1 {
+        margin-left: 0;
+    }
+    .single-contact-box {
+        margin-bottom: 30px;
+    }
 
 }/*max-width:767px*/
 
