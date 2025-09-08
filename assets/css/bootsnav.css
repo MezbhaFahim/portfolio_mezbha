@@ -13,7 +13,6 @@ Last update : 2016-10-19
 =================================*/
 nav.bootsnav .dropdown.megamenu-fw {
     position: static;
-}
 
 nav.bootsnav .container {
     position: relative;
@@ -1280,7 +1279,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     /* Tabs
     =================================*/ 
     nav.navbar.bootsnav .megamenu-content.tabbed{
-        padding-left: 0 !mportant;
+        padding-left: 0 !important;
     }
     
     nav.navbar.bootsnav .tabbed > li{
@@ -1470,5 +1469,4 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
         padding-top: 30px;
         padding-bottom: 30px;
     }
-}
-
+}}
